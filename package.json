@@ -1,6 +1,6 @@
 {
     "name": "fit-rectangle-into-rectangle",
-    "version": "0.0.0",
+    "version": "0.0.1",
     "description": "Small utility to fit a rectangle into another",
     "main": "dist/fit_rectangle.js",
     "types": "dist/fit_rectangle.d.ts",

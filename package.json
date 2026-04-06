@@ -1,0 +1,20 @@
+{
+    "name": "fit-rectangle-into-rectangle",
+    "version": "0.0.0",
+    "description": "Small utility to fit a rectangle into another",
+    "main": "dist/fit_rectangle.js",
+    "types": "dist/fit_rectangle.d.ts",
+    "files": [
+        "dist"
+    ],
+    "scripts": {
+        "build": "tsc -p tsconfig.json",
+        "prepare": "npm run build"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "MIT",
+    "devDependencies": {
+        "typescript": "^6.0.2"
+    }
+}
